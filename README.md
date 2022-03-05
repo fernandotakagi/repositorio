@@ -1,4 +1,6 @@
-# REPOSITÓRIO DESAFIO DE PROGRAMAÇÃO CAPGEMINI 2
+<h1 align="center">REPOSITÓRIO DESAFIO DE PROGRAMAÇÃO CAPGEMINI 2</h1>
+
+<p align="center">Meu repositório onde contém os arquivos com as repostas do Desafio de Programação Capgemini 2 para o processo seletivo da Academia Capgemini/Proway</p>
 
 <p align="center">
  <a href="#questao1">Questão_1</a> •
@@ -8,13 +10,13 @@
 </p>
 
 <h4 align="center"> 
-	🚧  Questão 1 🚀 Concluída  🚧
+	🚧  Questão 1 🚀 Concluída  🚧 JavaScript
 </h4>
 
 <h4 align="center"> 
-	🚧  Questão 2 🚀 Concluída  🚧
+	🚧  Questão 2 🚀 Concluída  🚧 Java
 </h4>
 
 <h4 align="center"> 
-	🚧  Questão 3 🚀 Em desenvolvimento...  🚧
+	🚧  Questão 3 🚀 Em desenvolvimento...  🚧 Java
 </h4>
