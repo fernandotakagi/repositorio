@@ -1,15 +1,22 @@
 # REPOSITÓRIO DESAFIO DE PROGRAMAÇÃO CAPGEMINI 2
 
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
+<p align="center">
+ <a href="#questao1">Questão_1</a> •
+ <a href="#questao2">Questão_2</a> • 
+ <a href="#questao3">Questão_3</a> • 
+ <a href="#prerequisitos">Pré-Requisitos</a> • 
+ <a href="#licenc-a">Licença</a> • 
+ <a href="#autor">Autor</a>
+</p>
+
+<h4 align="center"> 
+	🚧  Questão 1 🚀 Concluída  🚧
+</h4>
+
+<h4 align="center"> 
+	🚧  Questão 2 🚀 Concluída  🚧
+</h4>
+
+<h4 align="center"> 
+	🚧  Questão 1 🚀 Em desenvolvimento...  🚧
+</h4>
