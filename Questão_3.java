@@ -7,7 +7,7 @@ public class GFG
     static void gridStr(String str)
     {
         str = str.replaceAll("\\s","");
-        int l = str.length.();
+        int l = str.length();
         int k = 0, row, column;
         row = (int) Math.floor(Math.sqrt(l));
         column = (int) Math.ceil(Math.sqrt(l));
@@ -48,7 +48,7 @@ public class GFG
     // Driver code
     public static void main(String[] args)
     {
-        String str = "bom dia";
+        String str = "tenha um bom dia";
         gridStr(str);
     }
 }
