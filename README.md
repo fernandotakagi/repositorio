@@ -7,7 +7,7 @@
 </h4>
 
 <h4 align="center"> 
-	🚧  <a href="https://github.com/fernandotakagi/repositorio/blob/main/Quest%C3%A3o_2.txt">Questão_2</a> 🚀 Concluída  🚧 Java
+	🚧  <a href="https://github.com/fernandotakagi/repositorio/blob/main/Quest%C3%A3o_2.java">Questão_2</a> 🚀 Concluída  🚧 Java
 </h4>
 
 <h4 align="center"> 
