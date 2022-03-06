@@ -11,7 +11,7 @@
 </h4>
 
 <h4 align="center"> 
-	🚧  <a href="https://github.com/fernandotakagi/repositorio/blob/main/Quest%C3%A3o_3.txt">Questão_3</a> 🚀 Em desenvolvimento...  🚧 Java
+	🚧  https://github.com/fernandotakagi/repositorio/blob/main/Quest%C3%A3o_3.java 🚀 Em desenvolvimento...  🚧 Java
 </h4>
 
 <h4 align="center"> 
