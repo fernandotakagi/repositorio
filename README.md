@@ -14,9 +14,13 @@
 </h4>
 
 <h4 align="center"> 
-	🚧  Questão 2 🚀 Concluída  🚧 Java
+	🚧  <a href="https://github.com/fernandotakagi/repositorio/blob/main/Quest%C3%A3o_2.txt">Questão_2</a> 🚀 Concluída  🚧 Java
 </h4>
 
 <h4 align="center"> 
-	🚧  Questão 3 🚀 Em desenvolvimento...  🚧 Java
+	🚧  <a href="https://github.com/fernandotakagi/repositorio/blob/main/Quest%C3%A3o_3.txt">Questão_3</a> 🚀 Em desenvolvimento...  🚧 Java
+</h4>
+
+<h4 align="center"> 
+	<a href="#prerequisitos">Pré-Requisitos</a>
 </h4>
